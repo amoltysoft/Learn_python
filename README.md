@@ -3,5 +3,7 @@
 
 this repo for learning python 
 
-## begin with syntax_comment.py
-
+# 1-syntax_comment.py
+# 2-Data Type
+# 3-variables 1
+# 4-variables 2
