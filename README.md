@@ -7,3 +7,4 @@ this repo for learning python
 # 2-Data Type
 # 3-variables 1
 # 4-variables 2
+# 5-escape sequences characters
