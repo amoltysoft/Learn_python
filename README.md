@@ -9,3 +9,4 @@ this repo for learning python
 # 4-variables 2
 # 5-escape sequences characters
 # 6-concatenation and training
+# 7-strings part one
