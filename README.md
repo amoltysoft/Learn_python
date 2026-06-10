@@ -10,3 +10,5 @@ this repo for learning python
 # 5-escape sequences characters
 # 6-concatenation and training
 # 7-strings part one
+# 8-strings part tow
+
