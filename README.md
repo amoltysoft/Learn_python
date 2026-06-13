@@ -11,4 +11,5 @@ this repo for learning python
 # 6-concatenation and training
 # 7-strings part one
 # 8-strings part tow
+# 9- strings method 1
 
