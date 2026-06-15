@@ -1,7 +1,7 @@
 
 # learn python 
 
-this repo for learning python 
+this repo for learning python from elzero
 
 # 1-syntax_comment.py
 # 2-Data Type
