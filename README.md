@@ -12,4 +12,4 @@ this repo for learning python
 # 7-strings part one
 # 8-strings part tow
 # 9- strings method 1
-
+# 10- strinh methond 2
