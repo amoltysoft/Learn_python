@@ -12,6 +12,9 @@
 # var count (word , startpos, endpos) =>like count 
 # startpos =>start position 
 # endpos =>end position
+# var.swapcase() => reversing  status case
+# var.startswith(char,startpos,endpos) => search if string start with [char] returns boolean value 
+# var.endswith(char,startpos,endpos) => search if string ends with [char] return  boolean value
 
 
 
@@ -51,14 +54,14 @@ LOGO = logoUpper.center(lenth+6,"👉" )
 
 print (LOGO)
 
-# var.count(word)
+# var.count(word) casesansitive
 str5 = "I love python and php becuse php is easy"
 
 countPhp = str5.count("php")
 print (countPhp)
 
 
-# var.count(word,startpos,endpos)
+# var.count(word,startpos,endpos) casesansitive
 str6 ="""
 php is language excute in server and
 i love python  and php becuse php is easy
@@ -72,3 +75,18 @@ print (countPhp)
 
 countLine = str6.count("\n") # how many line in string
 print (countLine) # print it 
+
+
+# var.swapcase()
+str7 = "i lOVE pYTHON" 
+print (str7.swapcase())
+
+# var.startwith(char) casesansitive
+name = "Alwarithysoft"
+print (name.startswith("A")) # if name starts with A will print True
+
+# var.endswith(char,startpos,endpos)
+
+str8 = "I Love Python"
+print(str8.endswith("ve",0,6))
+
