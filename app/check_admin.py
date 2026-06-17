@@ -5,3 +5,9 @@
 name =input("Enter Your Name : ")
 admin = "Alwarithysoft"
 
+#check ...
+if name == admin :
+	print ("Hi My Admin ")
+else :
+	print ("Hi Mr ",name)
+
