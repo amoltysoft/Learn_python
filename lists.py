@@ -4,7 +4,7 @@
 # [2] Lists Are Ordered, To Use Index To Access Item 
 # [3] Lists Are Mutable =>you can  Add, end
 # [4] List Items Are Not Unque
-# [5] List Can Have Different Dat Type
+# [5] List Can Have Different Data Type
 # ------------------------------------------------
 
 
