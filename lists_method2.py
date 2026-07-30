@@ -57,7 +57,6 @@ list4.insert(0,"9") # insert "9" after index 0
 print (list4) # ["9","a","b","c","d"]
 list4.insert(2,"bb") # add "bb" after index 2
 print (list4) # ["9","a","bb","b","c","d"]
-
 # pop()
 
 list5 = ["ahmed","mohamed","ali"]
